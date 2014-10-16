@@ -1,0 +1,14 @@
+form {
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+	height: 400px;
+}
+
+input[type="submit"] {
+	font-weight: bold;
+	font-size: large;
+	padding-top: 10px !important;	
+	width: 100% !important;
+	height: 3em;
+}
